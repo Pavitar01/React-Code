@@ -1,6 +1,4 @@
 import "./App.css";
-import List from "./component/List";
-import Time from "./component/Ch2";
 import Welcome from "./GreetingMessage/Welcome";
 import React, { useState } from "react";
 
