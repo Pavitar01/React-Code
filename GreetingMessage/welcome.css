@@ -1,0 +1,9 @@
+h1,
+h2 {
+  font-size: 30px;
+  color: rgb(229, 242, 229);
+}
+
+input::placeholder {
+  text-align: center;
+}
