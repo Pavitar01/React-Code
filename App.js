@@ -26,8 +26,7 @@ function App() {
         Login
       </button>
       <Welcome val={data} />
-      {/* <List /> */}
-      {/* <Time /> */}
+ 
       <h5>Assignment done by Pavitar Singh 12007533</h5>
     </div>
   );
